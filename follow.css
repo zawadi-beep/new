@@ -1,0 +1,22 @@
+body{
+    background-image: url("images/image3.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.follow{
+    background-color: white;
+    width: 60%;
+    height: 200px;
+    padding: 80px;
+    margin: auto;
+    text-align: center;
+    padding-bottom: 150px;
+    margin-top: 100px;
+}
+img{
+    width: 60%;
+    height: 100;
+}
+h1{
+    font-size: 50px;
+}
